@@ -1,0 +1,18 @@
+{
+	"login": "user",
+	"password": "qwe",
+	"status": "user";
+}
+
+{
+	"login": "lexa",
+	"password": "Sup2ch",
+	"status": "manager";
+}
+
+{
+	"login": "admin",
+	"password": "1234",
+	"status": "admin";
+}
+

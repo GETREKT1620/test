@@ -1,0 +1,4 @@
+{	[login: admin1; password: 1234; status: admin]
+	[login: manager1; password: qwerty; status: manager]
+	[login: user1; password: lmao; status: user]
+}
